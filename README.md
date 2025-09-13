@@ -9,8 +9,8 @@ This code uses the "diabetes_012_health_indicators_BRFSS2015.csv" dataset to cre
 
 - utilizing several models (XGBoost, Random Forest, Neural Network, and Logistic Regression).
 
-- adjusting hyperparameters using RandomizedSearchCV.
+-adjusting hyperparameters using RandomizedSearchCV.
 
- -assessing models using metrics like the Confusion Matrix, Accuracy, and F1-score.
+-assessing models using metrics like the Confusion Matrix, Accuracy, and F1-score.
 
- -evaluating model performance in order to determine the best method for diabetes prediction.
+-evaluating model performance in order to determine the best method for diabetes prediction.
